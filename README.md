@@ -1,5 +1,5 @@
 
-![logo]()
+![logo](https://github.com/markuslahde/pop-up-ide/blob/master/pop-up-ide_logo_no_bg_small.png)
 # pop-up-ide
 
 *Interactive Python-editor that allows nondestructive examination of host code*
@@ -27,7 +27,7 @@ def zeros():
 ```
 *Wrapping variables utilizing C with functions allows them to be used inside pop-up-ide.*
 
-Operating system: pop-up-ide can currently used only in linux environments.
+Operating system: pop-up-ide can currently be used only in linux environments.
 
 ## Quick-start
 
@@ -56,7 +56,7 @@ variable_2 = 2
 def function_2(a):
     return a
 ```
-*Only variable_1 and function_1 can be found in the pop-up-ide code execution environment in this case.*
+*Only variable_1 and function_1 can be found in the pop-up-ide code execution environment.*
 
 By inheriting the namespace in a precise code execution state, pop-up-ide can be used like a debugging tool.
 
@@ -72,7 +72,8 @@ By inheriting the namespace in a precise code execution state, pop-up-ide can be
 
 6. Inside pop-up-ide, most of Python functionalities can be used. pop-up-ide's code execution environment is interactive and it attempts to execute once two empty lines have been entered.
 
-![xterm_example]()
+![xterm_example](https://github.com/markuslahde/pop-up-ide/blob/master/pop-up-ide_xterm_example.png)
+
 *Using standard Python in pop-up-ide.*
 
 *Note!*
