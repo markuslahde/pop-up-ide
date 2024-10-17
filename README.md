@@ -27,7 +27,7 @@ def zeros():
 ```
 *Wrapping variables utilizing C with functions allows them to be used inside pop-up-ide.*
 
-Operating system: pop-up-ide can currently used only in linux environments.
+Operating system: pop-up-ide can currently be used only in linux environments.
 
 ## Quick-start
 
