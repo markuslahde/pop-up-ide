@@ -1,5 +1,5 @@
 
-![logo](https://github.com/markuslahde/pop-up-ide/blob/master/pop-up-ide_image_no_bg.png)
+![logo](https://github.com/markuslahde/pop-up-ide/blob/master/pop-up-ide_logo_no_bg_small.png)
 # pop-up-ide
 
 *Interactive Python-editor that allows nondestructive examination of host code*
