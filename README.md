@@ -73,6 +73,7 @@ By inheriting the namespace in a precise code execution state, pop-up-ide can be
 6. Inside pop-up-ide, most of Python functionalities can be used. pop-up-ide's code execution environment is interactive and it attempts to execute once two empty lines have been entered.
 
 ![xterm_example](https://github.com/markuslahde/pop-up-ide/blob/master/pop-up-ide_xterm_example.png)
+
 *Using standard Python in pop-up-ide.*
 
 *Note!*
