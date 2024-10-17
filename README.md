@@ -56,7 +56,7 @@ variable_2 = 2
 def function_2(a):
     return a
 ```
-*Only variable_1 and function_1 can be found in the pop-up-ide code execution environment in this case.*
+*Only variable_1 and function_1 can be found in the pop-up-ide code execution environment.*
 
 By inheriting the namespace in a precise code execution state, pop-up-ide can be used like a debugging tool.
 
