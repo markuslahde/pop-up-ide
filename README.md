@@ -17,7 +17,7 @@
 When placed in code, pop-up-ide creates a new virtual environment with a copy of host namespace.
 Inside the virtual environment host variables and functions can be used in an interactive code execution environment without afftecting state of the original namespace.
 
-## Limitations
+### Limitations
 
 Currently pop-up-ide lacks capability to copy variables that use C under the hood (such as numpy arrays or pandas dataframes) unless they are wrapped inside Python functions.
 
